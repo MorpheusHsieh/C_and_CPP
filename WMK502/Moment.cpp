@@ -1,0 +1,47 @@
+//---------------------------------------------------------------------------
+#include <vcl.h>
+#pragma hdrstop
+#include <math.h>
+
+#include "Moment.h"
+#include "Nrerror.h"
+//---------------------------------------------------------------------------
+#pragma package(smart_init)
+#pragma resource "*.dfm"
+TMomentForm *MomentForm;
+//---------------------------------------------------------------------------
+__fastcall TMomentForm::TMomentForm(TComponent* Owner)
+    : TForm(Owner)
+{
+}
+//---------------------------------------------------------------------------
+void moment(float data[], int n, float *ave, float *adev, float *sdev,
+	float *var, float *skew, float *curt)
+{
+	extern void Show_ErrorMessage(AnsiString);
+	int j;
+	float ep=0.0,s,p;
+
+	if (n <= 1) Show_ErrorMessage("n must be at least 2 in moment");
+	s=0.0;
+	for (j=1;j<=n;j++) s += data[j];
+	*ave=s/n;
+	*adev=(*var)=(*skew)=(*curt)=0.0;
+	for (j=1;j<=n;j++) {
+		*adev += fabs(s=data[j]-(*ave));
+		*var += (p=s*s);
+		*skew += (p *= s);
+		*curt += (p *= s);
+	}
+	*adev /= n;
+	*var=(*var-ep*ep/n)/(n-1);
+	*sdev=sqrt(*var);
+	if (*var) {
+		*skew /= (n*(*var)*(*sdev));
+		*curt=(*curt)/(n*(*var)*(*var))-3.0;
+	}
+    else
+    Show_ErrorMessage("No skew/kurtosis when variance = 0 (in moment)");
+}
+//---------------------------------------------------------------------------
+
