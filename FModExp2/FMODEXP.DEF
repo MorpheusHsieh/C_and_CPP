@@ -1,0 +1,16 @@
+; FModExp.def : Declares the module parameters for the DLL.
+
+LIBRARY      "FMODEXP"
+DESCRIPTION  'FMODEXP Windows Dynamic Link Library'
+
+EXPORTS
+  genkeys
+  lmodexp
+  lmod
+  lcompare
+  lmodmul
+  lshiftleft
+  lshiftright
+  ladd
+  lsub
+  ; Explicit exports can go here
