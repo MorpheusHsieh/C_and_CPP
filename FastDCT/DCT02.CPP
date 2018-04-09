@@ -1,5 +1,5 @@
 // Program : DCT02.CPP Discrete Consine Transform all image by 8*8 block
-// Author  : Avatar
+// Author  : Morpheus
 // Date    : 98.07.21
 
 #include <time.h>

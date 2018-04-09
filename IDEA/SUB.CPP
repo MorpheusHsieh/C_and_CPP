@@ -1,5 +1,5 @@
 // Program : 'Sub' is to do ma <-- ma - mb
-// Author  : Avatar
+// Author  : Morpheus
 // Date    : 98.05.05
 
 #define FULL  0xffffffff

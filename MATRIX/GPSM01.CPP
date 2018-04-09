@@ -1,5 +1,5 @@
 // Program: 'Radar01' is calculator nonlinear least squares
-// Author : Avatar
+// Author : Morpheus
 // Date   : 98.04.12
 
 #include <math.h>

@@ -1,5 +1,5 @@
 // Program : FDCT01.cpp -- Fast discrete cosine transform
-// Author  : Avatar
+// Author  : Morpheus
 // Date    : 98.08.05
 
 #include <math.h>

@@ -1,5 +1,5 @@
 // Program: Raw2BMP.CPP
-// Author : Avatar
+// Author : Morpheus
 // Date   : 98.11.20
 #include <mem.h>
 #include <conio.h>

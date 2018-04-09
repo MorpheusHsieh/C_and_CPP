@@ -1,5 +1,5 @@
 // Program : Rnd01-1.CPP -- Uniform deviates
-// Author  : Avatar
+// Author  : Morpheus
 // Date    : 98.09.23
 
 #include <conio.h>

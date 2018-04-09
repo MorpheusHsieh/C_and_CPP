@@ -1,5 +1,5 @@
 // Program: ATxt283R -- Add text and Pseudo random sequence generate
-// Author : Avatar
+// Author : Morpheus
 // Date   : 98.06.08
 
 #include <math.h>

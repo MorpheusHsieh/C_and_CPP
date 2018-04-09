@@ -1,5 +1,5 @@
 // Program : Rnd00.CPP -- Minimal random number generator
-// Author  : Avatar
+// Author  : Morpheus
 // Date    : 98.09.23
 
 #include <conio.h>

@@ -1,5 +1,5 @@
 // Program : Watermark Hiding
-// Author  : Avatar
+// Author  : Morpheus
 // Date    : 98.07.06
 
 #include <conio.h>

@@ -1,5 +1,5 @@
 // Program : Bin2ASC.CPP
-// Author  : Avatar
+// Author  : Morpheus
 // Date    : 98.09.21
 #include <stdio.h>
 #include <conio.h>

@@ -1,5 +1,5 @@
 // Program : DCT03.CPP -- Discrete Consine Transform all image not slice
-// Author  : Avatar
+// Author  : Morpheus
 // Date    : 98.08.03
 
 #include <math.h>

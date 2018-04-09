@@ -1,5 +1,5 @@
 // program: EnHuff.cpp -- Compress use Huffman Coding
-// Author : Avatar
+// Author : Morpheus
 // Date   : 98.05.27
 
 #include <conio.h>

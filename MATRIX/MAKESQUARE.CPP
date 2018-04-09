@@ -1,5 +1,5 @@
 // program: 'MakeSquare" is to do NonSquarematrix trans SquareMatrix
-// Author : Avatar
+// Author : Morpheus
 // Date   : 98.04.12
 
 #include <stdio.h>

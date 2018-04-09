@@ -1,5 +1,5 @@
 // Program : 'CShiftLeft' is to do Circle shift n bits
-// Author  : Avatar
+// Author  : Morpheus
 // Date    : 98.05.01
 
 #define LMASK 0x80000000

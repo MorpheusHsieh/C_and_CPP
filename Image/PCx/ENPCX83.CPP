@@ -1,5 +1,5 @@
 // Program : EnPCX83.cpp -- Convert Meta format into true color PCX format
-// Author  : Avatar
+// Author  : Morpheus
 // Date    : 98.06.04
 
 #include <m2pcx01.h>

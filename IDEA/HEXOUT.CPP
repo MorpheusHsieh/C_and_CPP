@@ -1,5 +1,5 @@
 // Program : 'Hexout' is print number use Hex format
-// Author  : Avatar
+// Author  : Morpheus
 // Date    : 98.04.07
 
 #include <stdio.h>

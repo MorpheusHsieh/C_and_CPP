@@ -1,5 +1,5 @@
 // Program : 'IDEASubKey' is generate subKey of IDEA
-// Author  : Avatar
+// Author  : Morpheus
 // Date    : 98.05.01
 
 #include <conio.h>

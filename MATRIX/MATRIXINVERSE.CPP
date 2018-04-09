@@ -1,5 +1,5 @@
 // Program : 'Array Inverse' is to get Inverse of [A].
-// Author  : Avatar
+// Author  : Morpheus
 // Date    : 98.04.11
 
 #include <stdio.h>

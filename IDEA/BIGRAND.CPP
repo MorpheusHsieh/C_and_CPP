@@ -1,5 +1,5 @@
 // Program : Generate a ranrom integer
-// Author  : Avatar
+// Author  : Morpheus
 // Date    : 98.04.03
 
 #include <stdlib.h>

@@ -1,5 +1,5 @@
 // Program : Mophism.cpp -- rotation by col[k+1, k][1, 1]*col[x][y];
-// Auther  : Avatar
+// Auther  : Morpheus
 // Date    : 98.08.17 
 
 void morphism(int size, int k, unsigned char *Old, unsigned char *New)

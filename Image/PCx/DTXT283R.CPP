@@ -1,5 +1,5 @@
 // Program : DTxt283R.cpp -- Decode Text file picture from True color picture
-// Author  : Avatar
+// Author  : Morpheus
 // Date    : 98.06.08
 
 #include <conio.h>

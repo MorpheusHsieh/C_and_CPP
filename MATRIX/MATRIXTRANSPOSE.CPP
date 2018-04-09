@@ -1,5 +1,5 @@
 // Program : 'Matrix Transpose' is to do col(A) <-- row(A).
-// Author  : Avatar
+// Author  : Morpheus
 // Date    : 98.04.08
 
 typedef struct {

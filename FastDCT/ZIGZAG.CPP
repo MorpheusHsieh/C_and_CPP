@@ -1,5 +1,5 @@
 // Program : ZigZag.CPP -- AC components zig-zag order of JPEG compression
-// Author  : Avatar
+// Author  : Morpheus
 // Date    : 98.08.06
 #include <stdio.h>
 

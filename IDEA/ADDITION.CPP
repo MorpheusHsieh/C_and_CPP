@@ -1,5 +1,5 @@
 // Program: 'ADD01' is to do p1 <-- p1 + p2
-// Author : Avatar
+// Author : Morpheus
 // Date   : 98.05.03
 
 void addition(unsigned long *p1, unsigned long *p2)

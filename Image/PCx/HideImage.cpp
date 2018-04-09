@@ -1,5 +1,5 @@
 // Program : Hiden True color picture
-// Author  : Avatar
+// Author  : Morpheus
 // Date    : 98.06.15
 
 #include <conio.h>

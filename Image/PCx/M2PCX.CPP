@@ -1,5 +1,5 @@
 // Program: M2PCX,C
-// Author : Avatar
+// Author : Morpheus
 // Date   : 98.05.27
 
 #include <stdio.h>

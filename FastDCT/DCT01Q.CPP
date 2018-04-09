@@ -1,5 +1,5 @@
 // Program : DCT01.CPP Discrete Consine Transform
-// Author  : Avatar
+// Author  : Morpheus
 // Date    : 98.07.21
 
 #include <math.h>

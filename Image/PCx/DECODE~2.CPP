@@ -1,5 +1,5 @@
 // Program : B&W PCX format convert into Metaform
-// Author  : Avatar
+// Author  : Morpheus
 // Date    : 98.06.16
 
 FILE *fin, *fout;

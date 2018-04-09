@@ -1,5 +1,5 @@
 // Program : Automorphism
-// Author  : Avatar
+// Author  : Morpheus
 // Date    : 98.07.02
 
 #include <conio.h>

@@ -1,5 +1,5 @@
 // Program : 'SL01' is to do shift 1 bit left
-// Author  : Avatar
+// Author  : Morpheus
 // Date    : 98.05.04
 
 #include <conio.h>

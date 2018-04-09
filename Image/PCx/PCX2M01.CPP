@@ -1,5 +1,5 @@
 // Program : PCX2M01.CPP
-// Author  : Avatar
+// Author  : Morpheus
 // Date    : 98.06.01
 
 #include <conio.h>

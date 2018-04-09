@@ -1,5 +1,5 @@
 // Program : 'SubKey' is generate subKey of IDEA, One subkey is 16 bits
-// Author  : Avatar
+// Author  : Morpheus
 // Date    : 98.05.01
 
 void CShiftLeft(unsigned int sbit, unsigned long *csl);

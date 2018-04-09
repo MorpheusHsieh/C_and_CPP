@@ -1,5 +1,5 @@
 // Progeam: DContent
-// Author : Avatar
+// Author : Morpheus
 // Date   : 98.06.09
 
 #include <conio.h>

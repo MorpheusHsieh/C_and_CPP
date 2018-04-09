@@ -1,5 +1,5 @@
 // Program : Neural.CPP
-// Author  : Avatar
+// Author  : Morpheus
 // Date    : 98.12.14
 #include <time.h>
 #include <conio.h>

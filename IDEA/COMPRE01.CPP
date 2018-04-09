@@ -1,5 +1,5 @@
 // Program : 'Compare' is to compare two integer
-// Author  : Avatar
+// Author  : Morpheus
 // Date    : 98.05.05
 
 #include <conio.h>

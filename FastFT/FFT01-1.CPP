@@ -1,5 +1,5 @@
 // Program : FFT01.cpp -- Fast Fourier Transform
-// Author  : Avatar
+// Author  : Morpheus
 // Date    : 98.08.05
 
 #include <time.h>

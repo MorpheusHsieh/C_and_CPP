@@ -1,5 +1,5 @@
 // Program : PCX2M02.CPP -- PCX convert into Metaform
-// Author  : Avatar
+// Author  : Morpheus
 // Date    : 98.06.16
 
 #include <conio.h>

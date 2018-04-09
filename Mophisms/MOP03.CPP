@@ -1,5 +1,5 @@
 // Program : Toral Automorphism transformation v0.3
-// Author  : Avatar
+// Author  : Morpheus
 // Date    : 98.07.06
 
 #include <conio.h>

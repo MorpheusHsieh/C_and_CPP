@@ -1,5 +1,5 @@
 // Program : EgDetc02.CPP
-// Author  : Avatar
+// Author  : Morpheus
 // Date    : 98.11.25
 #include "ImgStrut.h"
 #include <math.h>

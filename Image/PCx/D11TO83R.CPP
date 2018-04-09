@@ -1,5 +1,5 @@
 // Program : D11to83.cpp -- Add B/W picture to 256 color picture
-// Author  : Avatar
+// Author  : Morpheus
 // Date    : 98.06.03
 
 #include <conio.h>

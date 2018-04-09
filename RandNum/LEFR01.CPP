@@ -1,5 +1,5 @@
 // Program : LSFR01.CPP
-// Author  : Avatar
+// Author  : Morpheus
 // Date    : 98.09.24
 
 #include <conio.h>

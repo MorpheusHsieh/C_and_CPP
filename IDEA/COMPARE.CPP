@@ -1,5 +1,5 @@
 // Program : 'Compare' is to compare two integer
-// Author  : Avatar
+// Author  : Morpheus
 // Date    : 98.05.05
 
 int compare(unsigned long *p1, unsigned long *p2)

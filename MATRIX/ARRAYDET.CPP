@@ -1,5 +1,5 @@
 // Program : 'Array Determine' is to do dte(A), .
-// Author  : Avatar
+// Author  : Morpheus
 // Date    : 98.04.08
 
 #include <math.h>

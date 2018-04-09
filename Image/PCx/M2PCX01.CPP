@@ -1,5 +1,5 @@
 // Program : M2PCX01.CPP -- Convert Meta format to PCX format
-// Author  : Avatar
+// Author  : Morpheus
 // Date    : 98.06.01
 
 #include <conio.h>

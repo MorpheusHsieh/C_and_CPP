@@ -1,5 +1,5 @@
 // Program: DES001.CPP
-// Auther : Avatar
+// Auther : Morpheus
 // Date   : 98/01/15
 
 #include <conio.h>

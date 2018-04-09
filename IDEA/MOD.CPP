@@ -1,5 +1,5 @@
 // Program : 'mod' is to do ma <-- ma mod mb
-// Author  : Avatar
+// Author  : Morpheus
 // Date    : 98.05.07
 
 #include <conio.h>

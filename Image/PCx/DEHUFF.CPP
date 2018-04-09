@@ -1,5 +1,5 @@
 // Program: DeHuff.cpp -- Decode Huffman Compress
-// Author : Avatar
+// Author : Morpheus
 // Date   : 98.05.28
 
 #include <conio.h>

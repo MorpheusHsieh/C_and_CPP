@@ -1,5 +1,5 @@
 // Program : 'ShiftRight' is to do shift right 1 bit
-// Author  : Avatar
+// Author  : Morpheus
 // Date    : 98.05.04
 
 #include <stdio.h>

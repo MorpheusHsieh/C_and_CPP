@@ -1,5 +1,5 @@
 // Program : FDCT01-1.cpp -- Fast Discrete Cosine Transform
-// Author  : Avatar
+// Author  : Morpheus
 // Date    : 98.08.05
 
 #include <time.h>

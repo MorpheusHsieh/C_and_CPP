@@ -1,5 +1,5 @@
 // Program : 'Array multiply' is to do ma <-- ma *mb.
-// Author  : Avatar
+// Author  : Morpheus
 // Date    : 98.04.08
 
 #include <math.h>

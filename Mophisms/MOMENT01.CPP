@@ -3,7 +3,7 @@
  *           ave, average deviation adev, standard deviation sdev, variance var,
  *           skewness skew, and kuytosis. return less one.
  *
- * Author  : Avatar
+ * Author  : Morpheus
  * Date    : 98.08.17
  */
 

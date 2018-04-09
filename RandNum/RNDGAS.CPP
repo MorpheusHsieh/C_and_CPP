@@ -1,5 +1,5 @@
 // Program : RndGas.CPP
-// Author  : Avatar
+// Author  : Morpheus
 // Date    : 98.09.23
 
 #include <conio.h>

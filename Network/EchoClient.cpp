@@ -1,5 +1,5 @@
 // Program : Echo client
-// Auther  : Avatar
+// Auther  : Morpheus
 // Date    : 1998/02/09
 #include <stdio.h>
 #include <string.h>

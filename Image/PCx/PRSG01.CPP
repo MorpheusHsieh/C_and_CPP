@@ -1,5 +1,5 @@
 // Program: PRSG01 -- Pseudo-Random-Sequence Generators
-// Author : Avatar
+// Author : Morpheus
 // Date   : 98.06.08
 
 #include <math.h>
