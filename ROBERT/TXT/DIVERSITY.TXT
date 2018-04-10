@@ -1,0 +1,39 @@
+Q:=x->0.5*erfc(x/sqrt(2));
+Pe:=ENR->0.5*Q(1.289*N*sqrt(ENR/(N*(1+r11)+(N-1)^2*r12)))
+r11:=-0.212;
+r12:=0;
+
+p:=rho->2*rho*(1+k)*exp(-k-rho^2*(1+k))*BesselI(0,2*rho*sqrt(k*(k+1)));
+k:=2;
+fptr:=fopen(Rician_2,WRITE,TEXT);
+A1:=array(0..40);
+A2:=array(0..40);
+A3:=array(0..40);
+A4:=array(0..40);
+A5:=array(0..40);
+N:=1;
+for ENR from 0 to 40 do A1[ENR]:=evalf(log10(int(Pe(10^(ENR/10))*p(rho),rho=0..infinity)),5);fprintf(fptr,`%f\t`,A1[ENR]) od;
+
+m:=1;
+fptr:=fopen(rayleigh.txt,WRITE,TEXT);
+A1:=array(0..40);
+A2:=array(0..40);
+A3:=array(0..40);
+A4:=array(0..40);
+A5:=array(0..40);
+N:=1;
+for ENR from 0 to 40 do A1[ENR]:=evalf(log10(int(Pe(10^(ENR/10))*p(rho),rho=0..infinity)));fprintf(fptr,`%f\t`,A1[ENR]) od;
+fprintf(fptr,`\n`);
+N:=2;
+for ENR from 0 to 40 do A2[ENR]:=evalf(log10(int(Pe(10^(ENR/10))*p(rho),rho=0..infinity)));fprintf(fptr,`%f\t`,A2[ENR]) od;
+fprintf(fptr,`\n`);
+N:=3;
+for ENR from 0 to 40 do A3[ENR]:=evalf(log10(int(Pe(10^(ENR/10))*p(rho),rho=0..infinity)));fprintf(fptr,`%f\t`,A3[ENR]) od;
+fprintf(fptr,`\n`);
+N:=4;
+for ENR from 0 to 40 do A4[ENR]:=evalf(log10(int(Pe(10^(ENR/10))*p(rho),rho=0..infinity)));fprintf(fptr,`%f\t`,A4[ENR]) od;
+fprintf(fptr,`\n`);
+N:=5;
+for ENR from 0 to 40 do A5[ENR]:=evalf(log10(int(Pe(10^(ENR/10))*p(rho),rho=0..infinity)));fprintf(fptr,`%f\t`,A5[ENR]) od;
+fprintf(fptr,`\n`);
+fclose(fptr);
