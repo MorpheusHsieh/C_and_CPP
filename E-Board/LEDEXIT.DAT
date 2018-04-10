@@ -1,0 +1,18 @@
+;
+exit:    mov    dx,ocw1
+         in     al,dx
+         or     al,08h
+         out    dx,al
+
+         mov    dx,ct8255
+         mov    al,md8255
+         out    dx,al
+
+         mov    ah,4ch
+         int    21h
+code     ends
+;
+;
+data     segment
+column   dw 0ffffh
+
